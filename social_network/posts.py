@@ -1,5 +1,8 @@
 from datetime import datetime
 
+# Please remove the comments and 
+# create these classes as it corresponds:
+# (your tests will fail if you don't comment out these classes)
 
 # class Post(object):
 #     def __init__(self, text, timestamp=None):
